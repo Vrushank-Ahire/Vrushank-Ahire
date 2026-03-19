@@ -1,12 +1,6 @@
-# 👋 Hi, I'm Vrushank Ajay Ahire
-Junior CSE Student at IIT Ropar | AI & ML Enthusiast
-
-- 🔬 I'm currently working on advanced machine learning models and IoT solutions for various sectors.
-- 🤝 I'm looking to collaborate on cutting-edge ML projects and innovative blockchain applications.
-- 🧠 I'm currently learning state-of-the-art NLP techniques and RISC-V architecture optimization.
-- 💡 Ask me about machine learning applications, blockchain technology, or support vector machines.
-- 🚀 I'm looking for help with scaling AI models and optimizing deep learning pipelines.
-- 📝 Research highlight: Submitted two papers exploring novel AI techniques during my B.Tech journey.
+# 👋 Hi, I'm Vrushank Ahire  
+🎓 CSE @ IIT Ropar | 🤖 AI Researcher  
+- 🔬 Multimodal AI • Deepfakes • ASR • Efficient LLMs • RAG
 
 ### 🔗 Connect with me
 <a href="www.linkedin.com/in/vrushank-ahire-7a608b250/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
